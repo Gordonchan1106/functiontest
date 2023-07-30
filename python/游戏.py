@@ -1,4 +1,3 @@
-# day1
 while True:
     print("""
     第一关：

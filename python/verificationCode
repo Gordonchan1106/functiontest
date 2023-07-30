@@ -14,4 +14,4 @@ for i in range(10):
 
     # print(random_char)
     s += random_char
-print("验证码：",s)
+print("VerificationCode：",s)
