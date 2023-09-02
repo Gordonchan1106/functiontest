@@ -10,4 +10,4 @@ msg = MIMEText("Hello, text", "plain", "utf-8") msg["From"] = Header("来⾃自�
 msg["To"] = Header("有缘⼈人","utf-8") # 接收者
 msg["Subject"] = Header("娜美的信","utf-8") # 主题
 # 发送
-smtp_obj.sendmail("nami@luffycity.com", ["alex@luffycity.com", "317822232@qq.com"], msg.as_string())
+smtp_obj.sendmail("nami@luffycity.com", ["xx@xxxx.com", "xxxxx@qq.com"], msg.as_string())
